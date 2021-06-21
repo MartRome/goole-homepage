@@ -68,7 +68,7 @@ a:active {
     text-decoration: none;
 }
 .footerdiv{
-    background-color: lightgray;
+    background-color: rgb(243, 242, 242);
     position: fixed;
     width: 100%;
     bottom: 0;
