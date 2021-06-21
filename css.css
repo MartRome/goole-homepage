@@ -83,7 +83,10 @@ a:active {
     list-style-type: none;
 }
 .footer-line{
-    padding-top: 5%;
+    padding-top: 10%;
     border-top: 1px solid rgb(207, 207, 207);
     border-left: transparent;
+}
+p{
+    font-family: Roboto;
 }
