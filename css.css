@@ -75,10 +75,12 @@ a:active {
     height: 5%;
     padding-top: 3%;
     font-family: Roboto;
+    list-style-type: none;
 }
 .right-footer{
     float: right;
     padding-right: 5%;
+    list-style-type: none;
 }
 .footer-line{
     padding-top: 5%;
